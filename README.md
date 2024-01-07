@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱I'm currently learning on Frontend Development.<br>🎓B.E Computer Science.
+👨‍💻Frontend Developer.<br>🎓B.E Computer Science.
 
 
 ## 🌐 Socials:
